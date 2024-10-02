@@ -1,0 +1,17 @@
+{
+  "name": "vtracer-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node js api for vtracer", "raster to vector", "graphics converter", "bitmap to vector", "svg", "open source", "image trace", "tracing", "clustering"],
+  "author": "Akshay Gupta - akshaygpt.com",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
